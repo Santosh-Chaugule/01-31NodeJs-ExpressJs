@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "santosh_server",
+  "version": "1.0.0",
+  "description": "I want create nodejs server",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santosh-Chaugule/01-31NodeJs-ExpressJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santosh-Chaugule/01-31NodeJs-ExpressJs/issues"
+  },
+  "homepage": "https://github.com/Santosh-Chaugule/01-31NodeJs-ExpressJs#readme"
+}
